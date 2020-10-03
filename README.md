@@ -1,4 +1,4 @@
-# Casino
+# Amerikaanse Roulette
 
 Amerikaanse Roulette is een spel dat je kunt spelen bij Holland Casino. Als speler probeer jij te voorspellen welk nummer er in de cilinder valt. Er zijn in totaal 37 nummers: 0 t/m 36. Er zijn verschillende mogelijkheden om de uitkomst te voorspellen. Een variant is dat je voorspelt dat de uitkomst een even of een oneven getal is. Als jouw voorspelling uitkomt, is je winst 1x je inzet en krijg je ook je inzet terug. Komt jouw voorspelling niet uit, dan verlies je je inzet. In het geval dat het getal 0 valt, verlies je ook inzet.
 - schrjif een programma dat Amerikaanse Roulette speelt. D.w.z. dat je programma dus willekeurig een getal 0 t/m 36 moet genereren.
