@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Casino {
+public class Roulette {
     public static void main(String[] args) {
     }
 }
